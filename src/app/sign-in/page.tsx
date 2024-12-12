@@ -64,7 +64,7 @@ const SignIn = () => {
     <div className="h-full flex items-center justify-center bg-[#1b0918]">
       <Card className="md:h-auto w-[80%] sm:w-[420px] p-4 sm:p-8">
         <CardHeader>
-          <CardTitle className="text-center">Sign Ip</CardTitle>
+          <CardTitle className="text-center">Sign In</CardTitle>
 
           <CardDescription className="text-sm text-center text-accent-foreground">
             Use email or service, to sign in
