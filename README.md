@@ -1,4 +1,4 @@
-# AAA Project 🚀
+# Full-Stack Auth | Next.js, NextAuth & MongoDB 🔐
 
 ##  📝 Overview
 
