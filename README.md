@@ -62,7 +62,7 @@ MIT License.
 
 - [Dev.to](https://dev.to/Joodi)
 - [Medium](https://medium.com/@Joodi)  
-- [LinkedIn](https://www.linkedin.com/in/MiladJoodi)  
+- [LinkedIn](https://www.linkedin.com/in/Joodi)  
 
 Happy coding! 🎉
 
